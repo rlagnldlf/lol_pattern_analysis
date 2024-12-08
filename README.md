@@ -1,1 +1,2 @@
-# lol_pattern_analysis
+# 캡스톤 프로젝트3
+
